@@ -1,0 +1,33 @@
+{
+	"id": "1",
+	"usuario": "martin",
+	"direcion": [{
+		"cuida ": "new york ",
+		"pais ": "estados unidos"
+	}],
+	"telefon": "123121454"
+},
+
+{
+	"id": "2",
+	"usuario": "maria",
+	"direcion":[
+    {
+		"cuida ": "maracaibo",
+		"pais ": "venezuela"
+	}
+],
+	"telefon": "4012554855"
+},
+
+{
+	"id": "3",
+	"usuario": "miguel",
+	"direcion": [
+    {
+		"cuida ": "barcelona",
+		"pais ": "espana"
+	}
+],
+	"telefon": "456887896988"
+}

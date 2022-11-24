@@ -1,0 +1,29 @@
+rutas de puertos
+
+1)ruta principal:
+* donde puedan pedir datos
+
+2)ruta de contacto
+* información del repositorio
+
+
+funcionamiento del programa
+
+1)poder pedir datos mostrando un json:
+*usaremos nodejs para pode localizar, el id para mostrando un json
+
+2)poder eliminar datos del json:
+*usaremos el mismo id para eliminar con nodejs
+
+verificar las rutas y peticiones
+
+1)mostrar un mensaje para verificar la ruta:
+*mostrá un mensaje en consola para verificar si existe
+
+2)verificar si la petición es correcta:
+*si los datos corresponden a las peticiones del usuario
+
+usaremos postman para eliminar los datos:
+
+1)postman herramienta para trabajar diferentes rutas y, verificar cada una de ellas
+*verificar las rutas;
